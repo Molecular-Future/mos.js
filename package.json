@@ -47,7 +47,7 @@
     "hmac-drbg": "^1.0.0",
     "inherits": "^2.0.1",
     "json-loader": "^0.5.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimalistic-assert": "^1.0.0",
     "minimalistic-crypto-utils": "^1.0.0",
     "protobufjs": "^6.8.8",
